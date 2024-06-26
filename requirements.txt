@@ -1,0 +1,10 @@
+streamlit
+pandas
+seaborn
+scikit-learn
+python-dotenv
+folium
+streamlit_folium
+os
+openai
+google.generativeai
