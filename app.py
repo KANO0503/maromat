@@ -12,7 +12,7 @@ import random
 logging.basicConfig(level=logging.INFO)
 
 # API 키 설정 (실제 키로 교체 필요)
-
+GOOGLE_API_KEY=AIzaSyBYBIHvllOkdFzTD_AwGsAtIZ1QUBJ5afk
 
 # OpenAI 클라이언트 설정
 openai_client = OpenAI(api_key=OPENAI_API_KEY)
